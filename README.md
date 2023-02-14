@@ -13,4 +13,8 @@ Usage:
   - All USB ethernet, USB Wi-Fi and USB bluetooth drivers
   - WAN and WWAN drivers
   - Touchscreen support
+  - Wireless devices
+  - NVidia, AMD, and Intel graphics (because virtual adapter is used)
+  - BTRFS Support
+  - NVME drivers
  
